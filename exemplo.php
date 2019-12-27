@@ -1,4 +1,5 @@
 <?php
+    require_once "vendor/autoload.php";
     use Red\PhpCep\Search;
 
     $busca = new Search();
