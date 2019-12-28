@@ -3,10 +3,13 @@
     "description": "Busca de cep online",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/rafaelfborges/php-cep",
     "authors": [
         {
             "name": "Rafael Borges",
-            "email": "rafaelfborges@gmail.com"
+            "email": "rafaelfborges@gmail.com",
+            "homepage": "https://github.com/rafaelfborges",
+            "role": "Developer"
         }
     ],
     "require": {
