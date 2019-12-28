@@ -3,6 +3,6 @@
     use Red\PhpCep\Search;
 
     $busca = new Search();
-    $resultado = $busca->getAddressFromZipcode('83035170');
+    $resultado = $busca->getAddressFromZipcode('83035090');
 
     print_r($resultado);
