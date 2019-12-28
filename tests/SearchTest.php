@@ -19,7 +19,7 @@
 
         public function dadosTeste(){
             return [
-                "Endereço Casa do Vô" => [
+                "Endereço Lugar A" => [
                     "83035090",
                     [
                         "cep" => "83035-090",
@@ -33,7 +33,7 @@
                         "gia" => ""
                     ]
                 ],
-                "Endereço de Casa" => [
+                "Endereço Lugar B" => [
                     "83035170",
                     [
                         "cep" => "83035-170",
